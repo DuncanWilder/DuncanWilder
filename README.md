@@ -2,7 +2,7 @@
 
 I'm a front-end developer based in Manchester, UK.
 
-Feel free to check out my [LinkedIn]([url](https://www.linkedin.com/in/duncanwilder/)).
+Feel free to check out my [LinkedIn](https://www.linkedin.com/in/duncanwilder/).
 
 <!--
 **DuncanWilder/DuncanWilder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
