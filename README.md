@@ -18,6 +18,8 @@ I'm not ready to share the source code for these, but here's some other things I
 
 Saltplate is a recipe management website I built. Add your own recipes to it, add them to a planner + scale them for how many each needs to feed, then add them to a smart shopping list, designed to make the weekly shop easy.
 
+---
+
 #### Gooder News
 
 <img align="left" width="200" height="201" src="./gooder-news.jpg" alt="Gooder News homepage">
