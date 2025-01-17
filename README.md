@@ -2,7 +2,11 @@
 
 I'm a front-end developer based in Manchester, UK.
 
+[Sometimes I help people code](./women-tech-makers.jpg).
+
 Feel free to check out my [LinkedIn](https://www.linkedin.com/in/duncanwilder/).
+
+Check out some of the stuff I've been playing around with in my pinned repositories 👇
 
 <!--
 **DuncanWilder/DuncanWilder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
