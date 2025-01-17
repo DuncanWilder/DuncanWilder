@@ -14,7 +14,7 @@ I'm not ready to share the source code for these, but here's some other things I
 
 #### Saltplate
 
-<img align="left" width="200" height="108" src="./saltplate.jpg" alt="Saltplate recipes page">
+<img width="200" height="108" src="./saltplate.jpg" alt="Saltplate recipes page">
 
 Saltplate is a recipe management website I built. Add your own recipes to it, add them to a planner + scale them for how many each needs to feed, then add them to a smart shopping list, designed to make the weekly shop easy.
 
@@ -22,7 +22,7 @@ Saltplate is a recipe management website I built. Add your own recipes to it, ad
 
 #### Gooder News
 
-<img align="left" width="200" height="201" src="./gooder-news.jpg" alt="Gooder News homepage">
+<img width="200" height="201" src="./gooder-news.jpg" alt="Gooder News homepage">
 
 Gooder News is an AI-powered news aggregator that uses the latest AI features to filter and group positive news stories from mainstream UK publishers.
 
