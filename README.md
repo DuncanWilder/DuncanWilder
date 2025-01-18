@@ -32,6 +32,14 @@ There are sites like [Positive News](https://www.positive.news) that focus on po
 
 That’s where Gooder News comes in. See the latest news, without the negativity.
 
+#### Lamina
+
+<img width="200" height="86" src="./lamina.png" alt="Gooder News homepage">
+
+Lamina is a dependency inversion layer that sits on top of component testing libraries such as Enzyme or React Testing Library. It abstracts component-testing logic and libraries into a single API, avoiding tying your test code to a specific library.
+
+When Enzyme fell out of favour in 2021, we had a big project to migrate to RTL. Who knows how long it'll last until it falls out of favour itself. By using an abstraction layer on top of your component tests, you can avoid the pain of switching between testing libraries without needing big re-writes every few years.
+
 <!--
 **DuncanWilder/DuncanWilder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
