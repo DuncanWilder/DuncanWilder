@@ -4,6 +4,8 @@ I'm a front-end developer based in Manchester, UK.
 
 [Sometimes I help people code](./women-tech-makers.jpg).
 
+[I also write on Substack on how to write scalable code, or make technical decisions that scale](https://duncanwilder.substack.com).
+
 Feel free to check out my [LinkedIn](https://www.linkedin.com/in/duncanwilder/).
 
 Check out some of the stuff I've been playing around with in my pinned repositories 👇
