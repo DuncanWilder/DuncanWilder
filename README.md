@@ -1,6 +1,6 @@
 ## Hi, I'm Duncan 👋
 
-I'm a front-end developer based in Manchester, UK.
+I'm a full-stack software engineer based in Manchester, UK.
 
 🖼️ [Sometimes I help people code](./women-tech-makers.jpg).
 
